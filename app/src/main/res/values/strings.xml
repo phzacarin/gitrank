@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitRank</string>
+    <string name="load_error">Error loading repositories.\nPlease check your internet connection.</string>
+    <string name="no_repositories">No repositories available</string>
+    <string name="load_error_toast">Couldn\'t fetch more data. Please check your internet connection and try again.</string>
+    <string name="try_again">Try again</string>
+</resources>
